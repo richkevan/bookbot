@@ -1,0 +1,1 @@
+Simple book stat counter in python for boot.dev course.
